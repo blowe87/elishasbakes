@@ -9,7 +9,7 @@
               <div class="container">
                 <img alt="Cake-White" src="assets/images/cake-white.png">
                 <h2>
-                  Our Price
+                  Our Prices
                 </h2>
               </div>
             </div>
@@ -21,28 +21,28 @@
                 </div>
                 <div class="content-price content-price-tag text-center">
                   <h4 class="dpurple-color">
-                    $ 100/<span>Package</span>
+                    <span>Simply Sweet Cupcake Packages</span>
                   </h4>
                   <div class="price-purple">
                     <div class="triangle-no-animate">
                       &nbsp;
                     </div>
                     <div class="text-price">
-                      Just Cupcakes + Free Order
+                    Indulge in Blissful Delight with our Cupcakes
                     </div>
                     <ul class="text-left list-price pad-top-0i">
                       <li class="purple-line">
-                        - 10 Cupcakes
+                      4 Cupcakes - <strong>£8</strong>
                       </li>
                       <li class="purple-line">
-                        - Free 1 Cupcakes 
+                      6 Cupcakes - <strong>£12</strong>
                       </li>
                       <li class="purple-line">
-                        - Free Order
+                      12 Cupcakes - <strong>£20</strong>
                       </li>
                     </ul>
                     <div class="price-btn price-purple-btn">
-                      Order
+                      Enquire
                     </div>
                   </div>
                 </div>
@@ -54,28 +54,28 @@
                 </div>
                 <div class="content-price content-price-tag text-center">
                   <h4 class="pink-color">
-                    $ 200/<span>Package</span>
+                    <span>Decadent Cupcake Packages</span>
                   </h4>
                   <div class="price-pink">
                     <div class="triangle-no-animate">
                       &nbsp;
                     </div>
                     <div class="text-price">
-                      Cupcakes + Ice Cream + Free Order
+                    Biscoff, Fully Loaded, and Personalised Cupcakes
                     </div>
                     <ul class="text-left list-price pad-top-0i">
                       <li class="pink-line">
-                        - 20 Cupcakes + 5 Ice Cream
+                       4 Cupcakes - <strong>£10</strong>
                       </li>
                       <li class="pink-line">
-                        - Free 5 Cupcakes 
+                       6 Cupcakes - <strong>£14</strong>
                       </li>
                       <li class="pink-line">
-                        - Free Order
+                      12 Cupcakes - <strong>£24</strong>
                       </li>
                     </ul>
                     <div class="price-btn price-pink-btn">
-                      Order
+                      Enquire
                     </div>
                   </div>
                 </div>
@@ -87,28 +87,31 @@
                 </div>
                 <div class="content-price content-price-tag text-center">
                   <h4 class="green-color">
-                    $ 300/<span>Package</span>
+                    <span>Heavenly Bakes&nbsp;&amp;&nbsp;Cakes Packages</span>
                   </h4>
                   <div class="price-green">
                     <div class="triangle-no-animate">
                       &nbsp;
                     </div>
                     <div class="text-price">
-                      Cupcakes + Ice Cream + Cookies
+                      Cakes, Millionaire Shortbread and Rocky Road
                     </div>
                     <ul class="text-left list-price pad-top-0i">
                       <li class="green-line">
-                        - 25 Cupcakes + 5 Ice Cream
+                        Birthday Cakes<br><strong>from £25</strong> for traybake
                       </li>
                       <li class="green-line">
-                        - Free 5 Cupcakes
+                        Victoria Sponge Cakes<br><strong>from £20</strong>
                       </li>
                       <li class="green-line">
-                        - 2 Cookies Free Order
+                        Millionaire Shortbread Box (12 Pcs) - <strong>£22</strong>
+                      </li>
+                      <li class="green-line">
+                        Rocky Road Box (12 Pcs) - <strong>£20</strong>
                       </li>
                     </ul>
                     <div class="price-btn price-green-btn">
-                      Order
+                      Enquire
                     </div>
                   </div>
                 </div>
@@ -120,28 +123,34 @@
                 </div>
                 <div class="content-price content-price-tag text-center">
                   <h4 class="blue-color">
-                    $ 400/<span>Package</span>
+                    <span>Afternoon Tea Packages</span>
                   </h4>
                   <div class="price-blue">
                     <div class="triangle-no-animate">
                       &nbsp;
                     </div>
                     <div class="text-price">
-                      Special Cupcakes + Ice Cream + Cookies
+                    Treat Yourself with our Afternoon Tea Packages!
                     </div>
                     <ul class="text-left list-price pad-top-0i">
-                      <li class="blue-line">
-                        - 30 Special Cupcakes
+                    <li class="blue-line">
+                        Afternoon Tea for One - <strong>£10</strong>
                       </li>
                       <li class="blue-line">
-                        - Free 10 Cupcakes 
+                        <strong>Includes: </strong>Cupcake
                       </li>
                       <li class="blue-line">
-                        - 10 Ice Cream
+                        Scone with Jam & Clotted Cream
+                      </li>
+                      <li class="blue-line">
+                        Millionaire Shortbread
+                      </li>
+                      <li class="blue-line">
+                        Mix of Sandwiches and Savoury Nibbles
                       </li>
                     </ul>
                     <div class="price-btn price-blue-btn">
-                      Order
+                      Enquire
                     </div>
                   </div>
                 </div>

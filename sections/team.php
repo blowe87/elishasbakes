@@ -15,7 +15,7 @@
                 <img alt="About Team" class="img-100" src="assets/images/about-1.png">
               </div>
               <h4>
-                Charlotte Banks
+                Charlotte
               </h4>
               <div class="line-pink-about">
                 &nbsp;
@@ -30,7 +30,7 @@
                 <img alt="About Team" class="img-100" src="assets/images/about-2.png">
               </div>
               <h4>
-                Elisha Banks
+                Elisha
               </h4>
               <div class="line-pink-about">
                 &nbsp;

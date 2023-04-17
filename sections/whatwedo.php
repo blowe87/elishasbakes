@@ -22,13 +22,13 @@
                   <div class="round-wrap green-option"></div>
                 </div>
                 <h4 class="green-color">
-                  Make Cake
+                  Cupcakes
                 </h4>
                 <div class="line-temp line-green-sm">
                   &nbsp;
                 </div>
                 <p class="text-center mar-top-10">
-                  Cookie apple pie donut gingerbread sweet roll pudding topping marshmallow.
+                From classic vanilla and chocolate cupcakes to more unique and indulgent flavors such as Biscoff, our cupcakes are freshly baked and frosted with only the finest ingredients.
                 </p>
               </div>
               <!-- Column -->
@@ -38,13 +38,13 @@
                   <div class="round-wrap orange-option"></div>
                 </div>
                 <h4 class="orange-color">
-                  Make Cake
+                  Cakes
                 </h4>
                 <div class="line-temp line-orange-sm">
                   &nbsp;
                 </div>
                 <p class="text-center mar-top-10">
-                  Cookie apple pie donut gingerbread sweet roll pudding topping marshmallow.
+                Our cake range is diverse, offering everything from traditional traybakes to exquisite personalized masterpieces that are custom-designed to suit your special occasion.
                 </p>
               </div>
               <!-- Column -->
@@ -54,13 +54,13 @@
                   <div class="round-wrap blue-option"></div>
                 </div>
                 <h4 class="blue-color">
-                  Make Cake
+                  Sweet Treats
                 </h4>
                 <div class="line-temp line-blue-sm">
                   &nbsp;
                 </div>
                 <p class="text-center mar-top-10">
-                  Cookie apple pie donut gingerbread sweet roll pudding topping marshmallow.
+                From our rich and indulgent Millionaire Shortbread to our irresistibly decadent Rocky Road, our range of treats deliver a taste experience that is sure to leave you craving for more.
                 </p>
               </div>
               <!-- Column -->
@@ -70,13 +70,13 @@
                   <div class="round-wrap pink-option"></div>
                 </div>
                 <h4 class="pink-color">
-                  Make Cake
+                  Afternoon Tea
                 </h4>
                 <div class="line-temp line-pink-sm">
                   &nbsp;
                 </div>
                 <p class="text-center mar-top-10">
-                  Cookie apple pie donut gingerbread sweet roll pudding topping marshmallow.
+                Our Afternoon Tea includes a selection of treats, featuring our famous Jam and Clotted Cream Scones, all crafted with care to create the perfect indulgent experience.
                 </p>
               </div>
               <!-- Column -->
@@ -86,13 +86,13 @@
                   <div class="round-wrap purple-option"></div>
                 </div>
                 <h4 class="purple-color">
-                  Make Cake
+                  Gluten Free
                 </h4>
                 <div class="line-temp line-purple-sm">
                   &nbsp;
                 </div>
                 <p class="text-center mar-top-10">
-                  Cookie apple pie donut gingerbread sweet roll pudding topping marshmallow.
+                Here at Elisha's Bakes we take great pride in providing a wide range of Gluten Free options, to ensure that no one misses out on the joy of freshly baked treats.
                 </p>
               </div>
               <!-- Column -->
@@ -102,13 +102,13 @@
                   <div class="round-wrap dpurple-option"></div>
                 </div>
                 <h4 class="dpurple-color">
-                  Make Cake
+                  Much much more!
                 </h4>
                 <div class="line-temp line-dpurple-sm">
                   &nbsp;
                 </div>
                 <p class="text-center mar-top-10">
-                  Cookie apple pie donut gingerbread sweet roll pudding topping marshmallow.
+                We love to accommodate special requests and create bespoke treats tailored to your specific needs, so please don't hesitate to get in touch with us for any inquiries.
                 </p>
               </div>
             </div>
