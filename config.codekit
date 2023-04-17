@@ -858,13 +858,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/messes.png": {
+	"\/assets\/images\/sprinkles.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3328,
-		"inputAbbreviatedPath": "\/assets\/images\/messes.png",
-		"outputAbbreviatedPath": "\/assets\/images\/messes.png",
+		"inputAbbreviatedPath": "\/assets\/images\/sprinkles.png",
+		"outputAbbreviatedPath": "\/assets\/images\/sprinkles.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -268,16 +268,16 @@ Table Of Content
   margin: 0 auto;
   padding: 20px 0;
 }
-.header-wrapper .chart-cake .tittle-chart-cake {
+.header-wrapper .chart-cake .title-chart-cake {
   border-bottom: dashed 1px #a1a2a6;
 }
-.header-wrapper .chart-cake .tittle-chart-cake h1 {
+.header-wrapper .chart-cake .title-chart-cake h1 {
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-top: 0;
 }
-.header-wrapper .chart-cake .tittle-chart-cake h1 span {
+.header-wrapper .chart-cake .title-chart-cake h1 span {
   font-size: 30px;
   font-family: 'latoregular';
   text-transform: capitalize;
@@ -504,7 +504,7 @@ Table Of Content
     margin-top: 20px;
   }
 }
-.header-wrapper .mega-menu .tittle-mega {
+.header-wrapper .mega-menu .title-mega {
   text-align: center;
   border-top: dashed 1px #a1a2a6;
   border-bottom: dashed 1px #a1a2a6;
@@ -540,21 +540,21 @@ Table Of Content
 .header-wrapper .mega-menu .list-mega li:hover {
   background-color: #eae8e0;
 }
-.header-wrapper .tittle-sub-top {
+.header-wrapper .title-sub-top {
   color: #f4f3ef;
   font-size: 25px;
 }
-.header-wrapper .tittle-sub-top h1 {
+.header-wrapper .title-sub-top h1 {
   text-transform: uppercase;
   font-size: 30px;
   display: inline-block;
 }
 @media (min-width: 768px) {
-  .header-wrapper .tittle-sub-top h1 {
+  .header-wrapper .title-sub-top h1 {
     font-size: 45px;
   }
 }
-.header-wrapper .tittle-sub-top h2 {
+.header-wrapper .title-sub-top h2 {
   display: inline-block;
 }
 .header-wrapper .top-header {
@@ -727,23 +727,23 @@ Table Of Content
 3. Banner Section CSS
 =============================================== 
 */
-.tittle-cake {
+.title-cake {
   color: #ffffff;
 }
-.tittle-cake h1 {
+.title-cake h1 {
   letter-spacing: 7px;
   margin-top: 0;
   margin-bottom: 0;
   text-shadow: -1px 3px 0px #f57f7f;
 }
-.tittle-cake h2 {
+.title-cake h2 {
   position: relative;
   margin-top: 30px;
   margin-bottom: 0;
 }
 @media (min-width: 768px) {
-  .tittle-cake h2:before,
-  .tittle-cake h2:after {
+  .title-cake h2:before,
+  .title-cake h2:after {
     content: '';
     position: absolute;
     background-color: #ffffff;
@@ -753,30 +753,30 @@ Table Of Content
     border-radius: 50px;
   }
 }
-.tittle-cake h2:before {
+.title-cake h2:before {
   left: 460px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
-  .tittle-cake h2:before {
+  .title-cake h2:before {
     left: 355px;
   }
 }
-.tittle-cake h2:after {
+.title-cake h2:after {
   right: 460px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
-  .tittle-cake h2:after {
+  .title-cake h2:after {
     left: 575px;
   }
 }
-.product-tittle h2 {
+.about-us-title h2 {
   position: relative;
   margin-top: 30px;
   margin-bottom: 0;
 }
 @media (min-width: 768px) {
-  .product-tittle h2:before,
-  .product-tittle h2:after {
+  .about-us-title h2:before,
+  .about-us-title h2:after {
     content: '';
     position: absolute;
     background-color: #ffffff;
@@ -786,19 +786,19 @@ Table Of Content
     border-radius: 50px;
   }
 }
-.product-tittle h2:before {
+.about-us-title h2:before {
   left: 460px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
-  .product-tittle h2:before {
+  .about-us-title h2:before {
     left: 375px;
   }
 }
-.product-tittle h2:after {
+.about-us-title h2:after {
   right: 460px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
-  .product-tittle h2:after {
+  .about-us-title h2:after {
     left: 550px;
   }
 }
@@ -812,7 +812,7 @@ Table Of Content
 .img-relative {
   position: relative;
 }
-.price-cake {
+.gf-tag {
   position: absolute;
   width: 100px;
   height: 100px;
@@ -822,15 +822,17 @@ Table Of Content
   right: 20px;
   border-radius: 50px;
 }
-.price-cake p {
+.gf-tag p {
   width: 100px;
   height: 100px;
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  font-size: 38px;
-  font-family: 'latoregular';
-}
+  font-size: 27px;
+  line-height: 23px;
+  font-family: 'moon_flower_boldregular';
+  }
+  
 .green-table {
   background-color: #23cfa7;
   border-top: 10px solid #a0ecd9;
@@ -868,16 +870,16 @@ Table Of Content
 4. About Cake Section CSS
 =============================================== 
 */
-.about-cake {
+.tag-line {
   background-color: #a593c2;
 }
-.about-content,
-.product-tittle {
+.tag-line-content,
+.about-us-title {
   padding: 20px 0;
   text-align: center;
   color: white;
 }
-.about-content p {
+.tag-line-content p {
   font-size: 18px;
   margin-top: 20px;
   max-width: 750px;
@@ -969,12 +971,12 @@ Table Of Content
 6. Product Cake Section CSS
 =============================================== 
 */
-.product-tittle h2 {
+.about-us-title h2 {
   color: #a593c2;
   margin-bottom: 40px;
 }
-.product-tittle h2:before,
-.product-tittle h2:after {
+.about-us-title h2:before,
+.about-us-title h2:after {
   background-color: #a593c2;
 }
 .wrap-product {
@@ -1176,7 +1178,7 @@ Table Of Content
 .wrap-product .bottom-product .orange-line {
   background-color: #ffcb88;
 }
-.product-content p.text-content {
+.about-us-content p.text-content {
   font-size: 18px;
   margin-top: 40px;
   margin-bottom: 40px;
@@ -1481,18 +1483,18 @@ Table Of Content
 .option-content p {
   font-size: 18px;
 }
-.option-content .messes {
+.option-content .sprinkles {
   width: 255px;
   height: 255px;
   position: relative;
   margin: 0 auto;
 }
-.option-content .messes .messes-show {
+.option-content .sprinkles .sprinkles-show {
   width: 100%;
   height: 100%;
   position: absolute;
   margin: 0 auto;
-  background: url('../../images/messes.png') no-repeat center;
+  background: url('../../images/sprinkles.png') no-repeat center;
   opacity: 0;
   z-index: 2;
   cursor: pointer;
@@ -1502,11 +1504,11 @@ Table Of Content
   -o-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-.option-content .messes .messes-show:hover {
+.option-content .sprinkles .sprinkles-show:hover {
   opacity: 1;
   cursor: pointer;
 }
-.option-content .messes .round-wrap {
+.option-content .sprinkles .round-wrap {
   position: absolute;
   width: 140px;
   height: 140px;
@@ -1517,31 +1519,31 @@ Table Of Content
   border-radius: 100px;
   z-index: 1;
 }
-.option-content .messes .round-wrap img {
+.option-content .sprinkles .round-wrap img {
   display: block;
   margin: 0 auto;
 }
-.option-content .messes .round-wrap.green-option {
+.option-content .sprinkles .round-wrap.green-option {
   background: url('../../images/cake-white-lg.png') no-repeat center;
   background-color: #23cfa7;
 }
-.option-content .messes .round-wrap.orange-option {
+.option-content .sprinkles .round-wrap.orange-option {
   background: url('../../images/cake-white-lg.png') no-repeat center;
   background-color: #ffbb63;
 }
-.option-content .messes .round-wrap.blue-option {
+.option-content .sprinkles .round-wrap.blue-option {
   background: url('../../images/cake-white-lg.png') no-repeat center;
   background-color: #59d4f0;
 }
-.option-content .messes .round-wrap.pink-option {
+.option-content .sprinkles .round-wrap.pink-option {
   background: url('../../images/cake-white-lg.png') no-repeat center;
   background-color: #fba1a1;
 }
-.option-content .messes .round-wrap.purple-option {
+.option-content .sprinkles .round-wrap.purple-option {
   background: url('../../images/cake-white-lg.png') no-repeat center;
   background-color: #a593c2;
 }
-.option-content .messes .round-wrap.dpurple-option {
+.option-content .sprinkles .round-wrap.dpurple-option {
   background: url('../../images/cake-white-lg.png') no-repeat center;
   background-color: #9a70bf;
 }
@@ -2029,9 +2031,138 @@ footer .list-link-home li a:hover {
     font-size: 28px;
   }
 }
-.logo-dn {
+.logo-bl {
   padding: 60px 0;
   text-align: center;
   margin: 0 auto;
   display: block;
   }
+
+.logo-bl img {
+   width: 46px;
+   }
+
+   .logo-bl p {
+    font-size: 10px;
+    margin: 0 0 0px;
+    }
+
+    .logo-bl a {
+      color:#ffffff;
+      text-decoration: none;
+    }
+
+    .logo-bl a:hover {
+      color:#eee;
+      text-decoration: none;
+    }
+  
+    html {
+    scroll-behavior: smooth;
+  }
+
+  #eapps-instagram-feed-1 > a {
+    visibility: hidden!important;
+  }
+
+  .contact .php-email-form {
+    width: 100%;
+    background: #fff;
+  }
+  
+  .contact .php-email-form .form-group {
+    padding-bottom: 8px;
+  }
+  
+  .contact .php-email-form .error-message {
+    display: none;
+    color: #fff;
+    background: #ed3c0d;
+    text-align: left;
+    padding: 15px;
+    font-weight: 600;
+  }
+  
+  .contact .php-email-form .error-message br+br {
+    margin-top: 25px;
+  }
+  
+  .contact .php-email-form .sent-message {
+    display: none;
+    color: #fff;
+    background: #18d26e;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+  }
+  
+  .contact .php-email-form .loading {
+    display: none;
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .contact .php-email-form .loading:before {
+    content: "";
+    display: inline-block;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    margin: 0 10px -6px 0;
+    border: 3px solid #18d26e;
+    border-top-color: #eee;
+    -webkit-animation: animate-loading 1s linear infinite;
+    animation: animate-loading 1s linear infinite;
+  }
+  
+  .contact .php-email-form input,
+  .contact .php-email-form textarea {
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+  }
+  
+  .contact .php-email-form input {
+    height: 44px;
+  }
+  
+  .contact .php-email-form textarea {
+    padding: 10px 12px;
+  }
+  
+  .contact .php-email-form button[type="submit"] {
+    background: #57c1d7;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+  }
+  
+  .contact .php-email-form button[type="submit"]:hover {
+    background: #1c84e3;
+  }
+  
+  @-webkit-keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  
+  
